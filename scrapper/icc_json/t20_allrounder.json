@@ -1,0 +1,162 @@
+[
+  {
+    "id": 201,
+    "link": "/rankings/mens/player-rankings/201",
+    "rank": 1,
+    "name": "shakib al hasan",
+    "rating": "272",
+    "country": "BAN"
+  },
+  {
+    "id": 2740,
+    "link": "/rankings/mens/player-rankings/2740",
+    "rank": 2,
+    "name": "hardik pandya",
+    "rating": "226",
+    "country": "IND"
+  },
+  {
+    "id": 618,
+    "link": "/rankings/mens/player-rankings/618",
+    "rank": 3,
+    "name": "mohammad nabi",
+    "rating": "210",
+    "country": "AFG"
+  },
+  {
+    "id": 1667,
+    "link": "/rankings/mens/player-rankings/1667",
+    "rank": 4,
+    "name": "aiden markram",
+    "rating": "198",
+    "country": "SA"
+  },
+  {
+    "id": 964,
+    "link": "/rankings/mens/player-rankings/964",
+    "rank": 5,
+    "name": "marcus stoinis",
+    "rating": "191",
+    "country": "AUS"
+  },
+  {
+    "id": 3082,
+    "link": "/rankings/mens/player-rankings/3082",
+    "rank": 6,
+    "name": "wanindu hasaranga",
+    "rating": "178",
+    "country": "SL"
+  },
+  {
+    "id": 1227,
+    "link": "/rankings/mens/player-rankings/1227",
+    "rank": 7,
+    "name": "j.j. smit",
+    "rating": "174",
+    "country": "NAM"
+  },
+  {
+    "id": 3046,
+    "link": "/rankings/mens/player-rankings/3046",
+    "rank": 8,
+    "name": "shadab khan",
+    "rating": "173",
+    "country": "PAK"
+  },
+  {
+    "id": 1129,
+    "link": "/rankings/mens/player-rankings/1129",
+    "rank": 9,
+    "name": "sikandar raza",
+    "rating": "173",
+    "country": "ZIM"
+  },
+  {
+    "id": 869,
+    "link": "/rankings/mens/player-rankings/869",
+    "rank": 10,
+    "name": "david wiese",
+    "rating": "170",
+    "country": "NAM"
+  },
+  {
+    "id": 1735,
+    "link": "/rankings/mens/player-rankings/1735",
+    "rank": 11,
+    "name": "moeen ali",
+    "rating": "163",
+    "country": "ENG"
+  },
+  {
+    "id": 1102,
+    "link": "/rankings/mens/player-rankings/1102",
+    "rank": 12,
+    "name": "sean williams",
+    "rating": "160",
+    "country": "ZIM"
+  },
+  {
+    "id": 282,
+    "link": "/rankings/mens/player-rankings/282",
+    "rank": 13,
+    "name": "glenn maxwell",
+    "rating": "150",
+    "country": "AUS"
+  },
+  {
+    "id": 3644,
+    "link": "/rankings/mens/player-rankings/3644",
+    "rank": 14,
+    "name": "liam livingstone",
+    "rating": "146",
+    "country": "ENG"
+  },
+  {
+    "id": 1223,
+    "link": "/rankings/mens/player-rankings/1223",
+    "rank": 15,
+    "name": "gerhard erasmus",
+    "rating": "139",
+    "country": "NAM"
+  },
+  {
+    "id": 2837,
+    "link": "/rankings/mens/player-rankings/2837",
+    "rank": 16,
+    "name": "zeeshan maqsood",
+    "rating": "134",
+    "country": "OMA"
+  },
+  {
+    "id": -1,
+    "link": "/rankings/mens/player-rankings/",
+    "rank": 17,
+    "name": "luke bichard",
+    "rating": "129",
+    "country": "GSY"
+  },
+  {
+    "id": 5022,
+    "link": "/rankings/mens/player-rankings/5022",
+    "rank": 18,
+    "name": "bas de leede",
+    "rating": "123",
+    "country": "NED"
+  },
+  {
+    "id": 5124,
+    "link": "/rankings/mens/player-rankings/5124",
+    "rank": 19,
+    "name": "curtis campher",
+    "rating": "118",
+    "country": "IRE"
+  },
+  {
+    "id": 2885,
+    "link": "/rankings/mens/player-rankings/2885",
+    "rank": 20,
+    "name": "rashid khan",
+    "rating": "118",
+    "country": "AFG"
+  }
+]

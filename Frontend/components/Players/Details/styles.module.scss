@@ -1,0 +1,76 @@
+@import "@/styles/config/mixins";
+@import "@/styles/config/typography";
+
+.players-details {
+	width: 100%;
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	flex-direction: column;
+	gap: 20px;
+	padding: 30px;
+
+	&-head {
+		width: 100%;
+		display: flex;
+		justify-content: flex-start;
+		align-items: flex-start;
+		flex-direction: column;
+		gap: 4px;
+
+		&-label {
+			color: var(--theme-grey);
+		}
+	}
+
+	&-body {
+		display: flex;
+		justify-content: flex-start;
+		align-items: flex-start;
+		flex-direction: column;
+		gap: 16px;
+
+		@include responsive(phone) {
+			flex-direction: row;
+		}
+
+		&-stat {
+			display: flex;
+			justify-content: flex-start;
+			align-items: center;
+			gap: 12px;
+
+			&::after {
+				content: "";
+				position: absolute;
+				top: 0;
+				right: 0;
+				height: 100%;
+				width: 1px;
+			}
+
+			@include responsive(phone) {
+				gap: 8px;
+			}
+
+			&-icon {
+				width: 22px;
+				height: 22px;
+
+				@include responsive(phone) {
+					width: 16px;
+					height: 16px;
+				}
+
+				path {
+					stroke: var(--theme-grey);
+				}
+			}
+
+			&-label {
+				color: var(--theme-grey);
+				@include typography($size: lg);
+			}
+		}
+	}
+}

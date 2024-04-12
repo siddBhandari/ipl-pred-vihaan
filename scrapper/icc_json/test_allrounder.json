@@ -1,0 +1,162 @@
+[
+  {
+    "id": 9,
+    "link": "/rankings/mens/player-rankings/9",
+    "rank": 1,
+    "name": "ravindra jadeja",
+    "rating": "455",
+    "country": "IND"
+  },
+  {
+    "id": 8,
+    "link": "/rankings/mens/player-rankings/8",
+    "rank": 2,
+    "name": "ravichandran ashwin",
+    "rating": "370",
+    "country": "IND"
+  },
+  {
+    "id": 201,
+    "link": "/rankings/mens/player-rankings/201",
+    "rank": 3,
+    "name": "shakib al hasan",
+    "rating": "332",
+    "country": "BAN"
+  },
+  {
+    "id": 1154,
+    "link": "/rankings/mens/player-rankings/1154",
+    "rank": 4,
+    "name": "ben stokes",
+    "rating": "307",
+    "country": "ENG"
+  },
+  {
+    "id": -1,
+    "link": "/rankings/mens/player-rankings/",
+    "rank": 5,
+    "name": "akshar patel",
+    "rating": "298",
+    "country": "IND"
+  },
+  {
+    "id": 887,
+    "link": "/rankings/mens/player-rankings/887",
+    "rank": 6,
+    "name": "joe root",
+    "rating": "286",
+    "country": "ENG"
+  },
+  {
+    "id": 1075,
+    "link": "/rankings/mens/player-rankings/1075",
+    "rank": 7,
+    "name": "jason holder",
+    "rating": "280",
+    "country": "WI"
+  },
+  {
+    "id": 490,
+    "link": "/rankings/mens/player-rankings/490",
+    "rank": 8,
+    "name": "mitchell starc",
+    "rating": "241",
+    "country": "AUS"
+  },
+  {
+    "id": 1902,
+    "link": "/rankings/mens/player-rankings/1902",
+    "rank": 9,
+    "name": "kyle mayers",
+    "rating": "240",
+    "country": "WI"
+  },
+  {
+    "id": 967,
+    "link": "/rankings/mens/player-rankings/967",
+    "rank": 10,
+    "name": "chris woakes",
+    "rating": "229",
+    "country": "ENG"
+  },
+  {
+    "id": 488,
+    "link": "/rankings/mens/player-rankings/488",
+    "rank": 11,
+    "name": "pat cummins",
+    "rating": "213",
+    "country": "AUS"
+  },
+  {
+    "id": 17068,
+    "link": "/rankings/mens/player-rankings/17068",
+    "rank": 12,
+    "name": "marco jansen",
+    "rating": "199",
+    "country": "SA"
+  },
+  {
+    "id": 1616,
+    "link": "/rankings/mens/player-rankings/1616",
+    "rank": 13,
+    "name": "kyle jamieson",
+    "rating": "196",
+    "country": "NZ"
+  },
+  {
+    "id": 1664,
+    "link": "/rankings/mens/player-rankings/1664",
+    "rank": 14,
+    "name": "kagiso rabada",
+    "rating": "184",
+    "country": "SA"
+  },
+  {
+    "id": 1597,
+    "link": "/rankings/mens/player-rankings/1597",
+    "rank": 15,
+    "name": "mehedi hasan",
+    "rating": "184",
+    "country": "BAN"
+  },
+  {
+    "id": 307,
+    "link": "/rankings/mens/player-rankings/307",
+    "rank": 16,
+    "name": "tim southee",
+    "rating": "182",
+    "country": "NZ"
+  },
+  {
+    "id": 1894,
+    "link": "/rankings/mens/player-rankings/1894",
+    "rank": 17,
+    "name": "keshav maharaj",
+    "rating": "176",
+    "country": "SA"
+  },
+  {
+    "id": 192,
+    "link": "/rankings/mens/player-rankings/192",
+    "rank": 18,
+    "name": "stuart broad",
+    "rating": "172",
+    "country": "ENG"
+  },
+  {
+    "id": 4093,
+    "link": "/rankings/mens/player-rankings/4093",
+    "rank": 19,
+    "name": "cameron green",
+    "rating": "170",
+    "country": "AUS"
+  },
+  {
+    "id": 797,
+    "link": "/rankings/mens/player-rankings/797",
+    "rank": 20,
+    "name": "nathan lyon",
+    "rating": "161",
+    "country": "AUS"
+  }
+]

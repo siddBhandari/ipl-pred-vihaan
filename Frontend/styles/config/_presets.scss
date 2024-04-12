@@ -1,0 +1,53 @@
+:root,
+:root::before,
+:root::after {
+	--team-india-color: #3a95f7;
+	--team-india-gradient: linear-gradient(
+		90deg,
+		#3a95f7 -0.73%,
+		#ff8a71 99.93%
+	);
+
+	--team-pakistan-color: #9eebbe;
+	--team-pakistan-gradient: linear-gradient(90deg, #386061 0%, #9eebbe 100%);
+
+	--team-south-africa-color: #398676;
+	--team-south-africa-gradient: linear-gradient(
+		90deg,
+		#398676 0%,
+		#ffd856 100%
+	);
+
+	--team-australia-color: #fefb66;
+	--team-australia-gradient: linear-gradient(90deg, #fefb66 0%, #298698 100%);
+
+	--team-new-zealand-color: #ffffff;
+	--team-new-zealand-gradient: linear-gradient(90deg, #252526 0%, #fff 100%);
+
+	--team-england-color: #3176e7;
+	--team-england-gradient: linear-gradient(90deg, #3176e7 0%, #fe5f6b 100%);
+
+	--team-sri-lanka-color: #435c9f;
+	--team-sri-lanka-gradient: linear-gradient(90deg, #435c9f 0%, #f9d57a 100%);
+
+	--team-bangladesh-color: #8e6b5e;
+	--team-bangladesh-gradient: linear-gradient(
+		90deg,
+		#286151 0%,
+		#fe766b 100%
+	);
+
+	--team-afghanistan-color: #71aafc;
+	--team-afghanistan-gradient: linear-gradient(
+		90deg,
+		#71aafc 0%,
+		#3a4256 100%
+	);
+
+	--team-netherlands-color: #ff956d;
+	--team-netherlands-gradient: linear-gradient(
+		90deg,
+		#ff956d 0%,
+		#25488d 100%
+	);
+}

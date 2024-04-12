@@ -1,0 +1,196 @@
+@import "@/styles/config/mixins";
+@import "@/styles/config/typography";
+
+.players-player-card {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+	aspect-ratio: 3 / 1;
+	overflow: hidden;
+	border-radius: 12px;
+	border: 1px solid var(--theme-white);
+	position: relative;
+	overflow: hidden;
+	z-index: 2;
+
+	@include responsive(phone) {
+		aspect-ratio: 2 / 1;
+	}
+
+	&-image {
+		width: 35%;
+		height: 100%;
+		display: flex;
+		justify-content: flex-end;
+		align-items: flex-end;
+		padding: 20px 10px 0 0;
+		overflow: hidden;
+		position: relative;
+		z-index: 5;
+
+		img {
+			object-fit: contain;
+			height: 100%;
+		}
+	}
+
+	&-content {
+		width: 65%;
+		height: 100%;
+		display: flex;
+		justify-content: space-between;
+		align-items: flex-start;
+		flex-direction: column;
+		padding: 12px;
+	}
+
+	&-name {
+		width: 100%;
+		display: flex;
+		justify-content: flex-start;
+		align-items: flex-start;
+		flex-direction: column;
+		gap: 4px;
+		@include typography($size: s);
+
+		@include responsive(phone) {
+			@include typography($size: md);
+		}
+	}
+
+	&-country {
+		@include typography($size: xs);
+
+		@include responsive(phone) {
+			@include typography($size: s);
+		}
+	}
+
+	&-high-level {
+		&-stats {
+			width: 100%;
+			display: flex;
+			justify-content: flex-start;
+			align-items: center;
+			gap: 20px;
+			margin-bottom: 3px;
+
+			&-stat {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				flex-direction: column;
+				&__key {
+					@include typography($size: md, $weight: bold);
+
+					@include responsive(phone) {
+						@include typography($size: xl, $weight: bold);
+					}
+				}
+
+				&__value {
+					@include typography($size: xs, $weight: light);
+
+					@include responsive(phone) {
+						@include typography($size: s, $weight: light);
+					}
+				}
+			}
+		}
+	}
+
+	&-low-level {
+		&-stats {
+			width: 100%;
+			display: flex;
+			justify-content: flex-start;
+			align-items: flex-start;
+			flex-flow: row wrap;
+			position: relative;
+
+			&::before,
+			&::after {
+				content: "";
+				position: absolute;
+				background: var(--theme-grey-1);
+			}
+
+			&::before {
+				top: 50%;
+				left: 0;
+				width: 100%;
+				height: 1px;
+				transform: translateY(-50%);
+			}
+
+			&::after {
+				top: 0;
+				left: 50%;
+				width: 1px;
+				height: 100%;
+				transform: translateX(-50%);
+			}
+
+			&-stat {
+				width: 50%;
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				flex: 0 0 auto;
+
+				&__key {
+					@include typography($size: xs, $weight: light);
+
+					@include responsive(phone) {
+						@include typography($size: sm, $weight: light);
+					}
+				}
+
+				&__value {
+					@include typography($size: xs, $weight: bold);
+
+					@include responsive(phone) {
+						@include typography($size: s, $weight: bold);
+					}
+				}
+
+				&:nth-child(1) {
+					padding: 0 5px 5px 0;
+				}
+
+				&:nth-child(2) {
+					padding: 0 0 5px 5px;
+				}
+
+				&:nth-child(3) {
+					padding: 5px 5px 0 0;
+				}
+
+				&:nth-child(4) {
+					padding: 5px 0 0 5px;
+				}
+			}
+		}
+	}
+
+	&-gradient {
+		position: absolute;
+		bottom: 0;
+		right: 0;
+		z-index: -1;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		transform: scaleX(-1);
+	}
+
+	&-label {
+		position: absolute;
+		top: 16px;
+		right: 16px;
+		color: var(--theme-grey);
+		opacity: 0.2;
+		z-index: 1;
+	}
+}

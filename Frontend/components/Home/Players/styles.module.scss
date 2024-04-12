@@ -1,0 +1,55 @@
+@import "@/styles/config/mixins";
+
+.home-players {
+	width: 100%;
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	flex-direction: column;
+	gap: 36px;
+	padding: 40px 80px;
+	background: linear-gradient(180deg, transparent 0%, var(--theme-black) 10%);
+
+	@include responsive(phone) {
+		padding: 24px;
+	}
+
+	&-head {
+		width: 100%;
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+		color: var(--theme-white);
+	}
+
+	&-body {
+		width: 100%;
+	}
+
+	&-matches,
+	&-players {
+		&-tabs {
+			width: 100%;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
+		&-tab {
+			@include init-button;
+			width: 33%;
+			padding: 20px 0;
+			color: var(--theme-white);
+			opacity: 0.5;
+			border-bottom: 1px solid var(--theme-grey);
+
+			&--active {
+				opacity: 1;
+			}
+		}
+	}
+
+	&-panes {
+		width: 100%;
+	}
+}

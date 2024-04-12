@@ -1,0 +1,76 @@
+@import "@/styles/config/animations";
+@import "@/styles/config/typography";
+@import "@/styles/config/mixins";
+
+.home-hero {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	flex-direction: column;
+	gap: 24px;
+	padding: 40px 0;
+	background:
+		linear-gradient(
+			180deg,
+			#000 40.55%,
+			rgba(0, 0, 0, 0) 65.52%,
+			#090909 100%
+		),
+		url("/images/stadium.jpeg"),
+		lightgray 50% / cover no-repeat;
+	background-size: cover;
+	background-position-x: center;
+	background-position-y: bottom;
+	background-blend-mode: darken;
+	background-color: rgba(0, 0, 0, 0.5);
+
+	@include responsive(phone) {
+		height: auto;
+		padding: 60px 20px;
+	}
+
+	&-logo {
+		object-fit: cover;
+		width: auto;
+		height: 120px;
+		animation: zoom-in var(--transition-time) ease-in-out;
+	}
+
+	&-title {
+		width: 70%;
+		text-align: center;
+		line-clamp: 2;
+		-webkit-line-clamp: 2;
+		color: var(--theme-white);
+		text-transform: uppercase;
+		animation: fade-up-in var(--transition-time) ease-in-out;
+		@include typography($size: head-1, $weight: bold);
+
+		@include responsive(phone) {
+			width: 100%;
+			@include typography($size: xxxl);
+		}
+	}
+
+	&-subtitle {
+		width: 50%;
+		line-clamp: 2;
+		-webkit-line-clamp: 2;
+		text-align: center;
+		color: var(--theme-grey-2);
+		animation: fade-up-in var(--transition-time) ease-in-out;
+		@include typography($size: xxl);
+
+		@include responsive(phone) {
+			width: 100%;
+			@include typography($size: md);
+		}
+	}
+
+	&-btn {
+		margin-top: 20px;
+		animation: zoom-in var(--transition-time) ease-in-out;
+	}
+}

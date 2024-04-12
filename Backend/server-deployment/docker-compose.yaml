@@ -1,0 +1,36 @@
+version: '3'
+
+services:
+  frontend:
+    container_name: frontend
+    build:
+      context: ../../../cricket-yug-frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+#    environment:
+#      - NEXT_PUBLIC_BACKEND_BASE_URL=http://15.206.32.46/api/v1
+    networks:
+      - cricketyug-network
+
+  backend:
+    container_name: backend
+    build:
+      context: ../../../cricket-yug-backend/Backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    command: "uvicorn app.asgi:application --host 0.0.0.0 --port 8000 --workers 2"
+#    volumes:
+#      - ../app:/app # ONLY FOR DEVELOPMENT
+    environment:
+      - DATABASE_NAME=cricketyug
+      - DATABASE_HOST=cricketyug.postgres.database.azure.com
+      - DATABASE_USER=dbadmin
+      - DATABASE_PWD=CRICKETYUG2023(cricketyug2023)
+    networks:
+      - cricketyug-network
+
+networks:
+  cricketyug-network:
+    driver: bridge

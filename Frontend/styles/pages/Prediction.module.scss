@@ -1,0 +1,49 @@
+@import "@/styles/config/mixins";
+
+.prediction {
+	width: 100%;
+	padding: 40px 80px;
+	background-color: var(--theme-black);
+	color: var(--theme-white);
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	flex-direction: column;
+	gap: 40px;
+
+	@include responsive(phone) {
+		padding: 40px 0;
+	}
+
+	&-header {
+		width: 100%;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+
+		@include responsive(phone) {
+			padding: 0 20px;
+		}
+
+		h1 {
+			@include responsive(phone) {
+				display: none;
+			}
+		}
+
+		&__logo {
+			object-fit: contain;
+			width: 100px;
+			height: auto;
+			cursor: pointer;
+		}
+
+		&__title {
+			padding: 0 20px;
+		}
+	}
+
+	&-stats {
+		width: 100%;
+	}
+}

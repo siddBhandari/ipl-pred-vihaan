@@ -1,0 +1,2621 @@
+{
+  "IND": [
+    {
+      "name": "Arshdeep Singh",
+      "howstatId": 4933,
+      "iccId": 4698.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Ravichandran Ashwin",
+      "howstatId": 3788,
+      "iccId": 8.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Jasprit Bumrah",
+      "howstatId": 4062,
+      "iccId": 1124.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Yuzvendra Chahal",
+      "howstatId": 4063,
+      "iccId": 111.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Deepak Chahar",
+      "howstatId": 4557,
+      "iccId": 140.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Shikhar Dhawan",
+      "howstatId": 3832,
+      "iccId": 41.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Ruturaj Gaikwad",
+      "howstatId": 4931,
+      "iccId": 5443.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Deepak Hooda",
+      "howstatId": 4404,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Ishan Kishan",
+      "howstatId": 4544,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Shreyas Iyer",
+      "howstatId": 4387,
+      "iccId": 1563.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Ravindra Jadeja",
+      "howstatId": 3644,
+      "iccId": 9.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Virat Kohli",
+      "howstatId": 3600,
+      "iccId": 164.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Kuldeep Yadav",
+      "howstatId": 4652,
+      "iccId": 261.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Mohammed Shami",
+      "howstatId": 3993,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Mohammed Siraj",
+      "howstatId": 4675,
+      "iccId": 3840.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Mukesh Kumar",
+      "howstatId": 7228,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Hardik Pandya",
+      "howstatId": 4399,
+      "iccId": 2740.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Rishabh Pant",
+      "howstatId": 4542,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Axar Patel",
+      "howstatId": 4310,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    {
+      "name": "Prasidh Krishna",
+      "howstatId": 4930,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    { "name": "KL Rahul", "howstatId": 4137, "iccId": -1, "role": "batsman" },
+    {
+      "name": "Sanju Samson",
+      "howstatId": 4099,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    { "name": "Kuldeep Sen", "howstatId": 6544, "iccId": -1, "role": "Bowler" },
+    {
+      "name": "Shahbaz Ahmed",
+      "howstatId": 5861,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Rohit Sharma",
+      "howstatId": 3474,
+      "iccId": 107.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Shubman Gill",
+      "howstatId": 4769,
+      "iccId": 3761.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Shardul Thakur",
+      "howstatId": 4393,
+      "iccId": 1745.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Tilak Varma",
+      "howstatId": 6522,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Umran Malik",
+      "howstatId": 6204,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Jaydev Unadkat",
+      "howstatId": 3838,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Washington Sundar",
+      "howstatId": 4684,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Suryakumar Yadav",
+      "howstatId": 4073,
+      "iccId": 108.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Srikar Bharat",
+      "howstatId": 4384,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Yashasvi Jaiswal",
+      "howstatId": 5857,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Cheteshwar Pujara",
+      "howstatId": 3826,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Ajinkya Rahane",
+      "howstatId": 3889,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    { "name": "Umesh Yadav", "howstatId": 3786, "iccId": -1, "role": "bowler" },
+    {
+      "name": "Avesh Khan",
+      "howstatId": 4673,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Shivam Dube",
+      "howstatId": 4945,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Bhuvneshwar Kumar",
+      "howstatId": 3991,
+      "iccId": 116.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Harshal Patel",
+      "howstatId": 4125,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Ravi Bishnoi",
+      "howstatId": 5851,
+      "iccId": 19351.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Sai Kishore",
+      "howstatId": 5846,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Jitesh Sharma",
+      "howstatId": 4554,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    { "name": "Shivam Mavi", "howstatId": 4768, "iccId": -1, "role": "bowler" },
+    {
+      "name": "Rinku Singh",
+      "howstatId": 4665,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Rahul Tripathi",
+      "howstatId": 4679,
+      "iccId": -1,
+      "role": "batsman"
+    }
+  ],
+  "AFG": [
+    {
+      "name": "Abdul Malik",
+      "howstatId": 5946,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Abdul Rahman",
+      "howstatId": 7367,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Afsar Zazai",
+      "howstatId": 4245,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Amir Hamza",
+      "howstatId": 3935,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    {
+      "name": "Azmatullah Omarzai",
+      "howstatId": 5936,
+      "iccId": 5134.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Bahir Shah",
+      "howstatId": 7322,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Fareed Ahmad",
+      "howstatId": 4363,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Fazalhaq Farooqi",
+      "howstatId": 5955,
+      "iccId": 19231.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Gulbadin Naib",
+      "howstatId": 3877,
+      "iccId": 613.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Hashmatullah Shahidi",
+      "howstatId": 4239,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Hazratullah Zazai",
+      "howstatId": 4615,
+      "iccId": 5134.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Ibrahim Zadran",
+      "howstatId": 5471,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Ikram Alikhil",
+      "howstatId": 4928,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Karim Janat",
+      "howstatId": 4611,
+      "iccId": 2901.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Mohammad Nabi",
+      "howstatId": 3665,
+      "iccId": 618.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Mohammad Saleem",
+      "howstatId": 7353,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Mohammad Shahzad",
+      "howstatId": 3728,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Mujeeb Ur Rahman",
+      "howstatId": 4714,
+      "iccId": 4572.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Najibullah Zadran",
+      "howstatId": 3960,
+      "iccId": 620.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Nasir Jamal",
+      "howstatId": 4315,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Naveen-ul-Haq",
+      "howstatId": 4590,
+      "iccId": -1,
+      "role": "Bowler"
+    },
+    {
+      "name": "Nijat Masood",
+      "howstatId": 6641,
+      "iccId": 2905.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Noor Ahmad",
+      "howstatId": 6536,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Noor Ali Zadran",
+      "howstatId": 3663,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Qais Ahmad",
+      "howstatId": 5472,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Rahmanullah Gurbaz",
+      "howstatId": 5474,
+      "iccId": 17115.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Rahmat Shah",
+      "howstatId": 4009,
+      "iccId": -1.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Rashid Khan",
+      "howstatId": 4484,
+      "iccId": -1.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Riaz Hassan",
+      "howstatId": 6469,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Sediqullah Atal",
+      "howstatId": 7195,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Shahidullah",
+      "howstatId": 3730,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Sharafuddin Ashraf",
+      "howstatId": 4313,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Usman Ghani",
+      "howstatId": 4300,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Wafadar Momand",
+      "howstatId": 4795,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Yamin Ahmadzai",
+      "howstatId": 4507,
+      "iccId": 2894.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Zahir Khan",
+      "howstatId": 4782,
+      "iccId": 2909.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Zia-ur-Rehman",
+      "howstatId": 7368,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Zubaid Akbari",
+      "howstatId": 7564,
+      "iccId": -1.0,
+      "role": "unknown"
+    }
+  ],
+  "AUS": [
+    {
+      "name": "Ashton Agar",
+      "howstatId": 4224,
+      "iccId": 935.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Scott Boland",
+      "howstatId": 4511,
+      "iccId": 1475.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Alex Carey",
+      "howstatId": 4726,
+      "iccId": 3882.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Pat Cummins",
+      "howstatId": 3909,
+      "iccId": 488.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Cameron Green",
+      "howstatId": 4330,
+      "iccId": 4093.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Peter Handscomb",
+      "howstatId": 4558,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Josh Hazlewood",
+      "howstatId": 3799,
+      "iccId": 857.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Travis Head",
+      "howstatId": 4386,
+      "iccId": 1020.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Usman Khawaja",
+      "howstatId": 3842,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Matthew Kuhnemann",
+      "howstatId": 6656,
+      "iccId": 4023.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Marnus Labuschagne",
+      "howstatId": 4816,
+      "iccId": 4029.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Nathan Lyon",
+      "howstatId": 3885,
+      "iccId": 797.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Mitchell Marsh",
+      "howstatId": 3912,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    {
+      "name": "Todd Murphy",
+      "howstatId": 7126,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Michael Neser",
+      "howstatId": 4201,
+      "iccId": 909.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Matt Renshaw",
+      "howstatId": 4607,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Steven Smith",
+      "howstatId": 1642,
+      "iccId": 271.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Mitchell Starc",
+      "howstatId": 3830,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    {
+      "name": "David Warner",
+      "howstatId": 1463,
+      "iccId": 170.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Sean Abbott",
+      "howstatId": 4331,
+      "iccId": 942.0,
+      "role": "bowler"
+    },
+    { "name": -1, "howstatId": 5332, "iccId": 4524.0, "role": "batsman" },
+    {
+      "name": "Nathan Ellis",
+      "howstatId": 6082,
+      "iccId": -1,
+      "role": "bowler"
+    },
+    {
+      "name": "Aaron Hardie",
+      "howstatId": 7448,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    {
+      "name": "Josh Inglis",
+      "howstatId": 6471,
+      "iccId": 4088.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Spencer Johnson",
+      "howstatId": 7449,
+      "iccId": -1,
+      "role": "bowler"
+    },
+    {
+      "name": "Glenn Maxwell",
+      "howstatId": 3969,
+      "iccId": 282.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Tanveer Sangha",
+      "howstatId": 7450,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Matthew Short",
+      "howstatId": 4729,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Marcus Stoinis",
+      "howstatId": 4389,
+      "iccId": 964.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Adam Zampa",
+      "howstatId": 4527,
+      "iccId": 958.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Jason Behrendorff",
+      "howstatId": 4705,
+      "iccId": -1,
+      "role": "bowler"
+    },
+    {
+      "name": "Ashton Turner",
+      "howstatId": 4648,
+      "iccId": -1,
+      "role": "allrounder"
+    }
+  ],
+  "BAN": [
+    {
+      "name": "Ebadot Hossain",
+      "howstatId": 4925,
+      "iccId": 3711.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Khaled Ahmed",
+      "howstatId": 4833,
+      "iccId": 5281.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Litton Das",
+      "howstatId": 4430,
+      "iccId": 1596.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Mahmudul Hasan Joy",
+      "howstatId": 3623,
+      "iccId": 492.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Mehidy Hasan Miraz",
+      "howstatId": 4598,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Mominul Haque",
+      "howstatId": 3980,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Mushfiqur Rahim",
+      "howstatId": 3279,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Najmul Hossain Shanto",
+      "howstatId": 4633,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Nurul Hasan",
+      "howstatId": 4514,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Shakib Al Hasan",
+      "howstatId": 3426,
+      "iccId": 201.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Shoriful Islam",
+      "howstatId": 5958,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Taijul Islam",
+      "howstatId": 4324,
+      "iccId": 1904.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Tamim Iqbal",
+      "howstatId": 3461,
+      "iccId": 287.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Taskin Ahmed",
+      "howstatId": 4299,
+      "iccId": 1839.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Yasir Ali",
+      "howstatId": 6456,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Zakir Hasan",
+      "howstatId": 2953,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Afif Hossain",
+      "howstatId": 4734,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Anamul Haque",
+      "howstatId": 3979,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Hasan Mahmud",
+      "howstatId": 5842,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Mahedi Hasan",
+      "howstatId": 4737,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Mahmudullah",
+      "howstatId": 3488,
+      "iccId": 492.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Mohammad Naim",
+      "howstatId": 3488,
+      "iccId": -1.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Mrittunjoy Chowdhury",
+      "howstatId": 7273,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Mustafizur Rahman",
+      "howstatId": 4414,
+      "iccId": 1594.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Nasum Ahmed",
+      "howstatId": 5957,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Rony Talukdar",
+      "howstatId": 4448,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Shamim Hossain",
+      "howstatId": 6048,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Soumya Sarkar",
+      "howstatId": 4362,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Tanzid Hasan",
+      "howstatId": 7451,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Tanzim Hasan Sakib",
+      "howstatId": 7454,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Towhid Hridoy",
+      "howstatId": 7162,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Hasan Murad",
+      "howstatId": 7562,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Jaker Ali",
+      "howstatId": 7544,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Ripon Mondol",
+      "howstatId": 7545,
+      "iccId": -1,
+      "role": "bowler"
+    },
+    {
+      "name": "Mosaddek Hossain",
+      "howstatId": 4516,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Parvez Hossain Emon",
+      "howstatId": 6840,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Rakibul Hasan",
+      "howstatId": 7546,
+      "iccId": 201.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Rishad Hossain",
+      "howstatId": 7198,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Saif Hassan",
+      "howstatId": 5773,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Shahadat Hossain",
+      "howstatId": 7547,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Sumon Khan",
+      "howstatId": 7548,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Tanvir Islam",
+      "howstatId": 7182,
+      "iccId": -1.0,
+      "role": "unknown"
+    }
+  ],
+  "ENG": [
+    {
+      "name": "Moeen Ali",
+      "howstatId": 4271,
+      "iccId": 1735.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "James Anderson",
+      "howstatId": 3065,
+      "iccId": -1,
+      "role": "bowler"
+    },
+    {
+      "name": "Jonny Bairstow",
+      "howstatId": 3900,
+      "iccId": 506.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Stuart Broad",
+      "howstatId": 3434,
+      "iccId": 192.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Harry Brook",
+      "howstatId": 6470,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Zak Crawley",
+      "howstatId": 5736,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Ben Duckett",
+      "howstatId": 4596,
+      "iccId": 1542.0,
+      "role": "batsman"
+    },
+    { "name": "Ben Foakes", "howstatId": 4832, "iccId": -1, "role": "batsman" },
+    {
+      "name": "Will Jacks",
+      "howstatId": 6922,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Jack Leach",
+      "howstatId": 4744,
+      "iccId": 3363.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Liam Livingstone",
+      "howstatId": 4692,
+      "iccId": 3644.0,
+      "role": "bowler"
+    },
+    { "name": "Ollie Pope", "howstatId": 4814, "iccId": -1, "role": "batsman" },
+    {
+      "name": "Matthew Potts",
+      "howstatId": 6622,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Rehan Ahmed",
+      "howstatId": 7109,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Ollie Robinson",
+      "howstatId": 6010,
+      "iccId": 4434.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Joe Root",
+      "howstatId": 3981,
+      "iccId": 887.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Ben Stokes",
+      "howstatId": 3883,
+      "iccId": 1154.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Josh Tongue",
+      "howstatId": 7298,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Chris Woakes",
+      "howstatId": 3846,
+      "iccId": 967.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Mark Wood",
+      "howstatId": 4421,
+      "iccId": 2749.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Jofra Archer",
+      "howstatId": 4777,
+      "iccId": 3502.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Gus Atkinson",
+      "howstatId": 7452,
+      "iccId": -1,
+      "role": "bowler"
+    },
+    {
+      "name": "Sam Billings",
+      "howstatId": 4428,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Jos Buttler",
+      "howstatId": 3888,
+      "iccId": 509.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Brydon Carse",
+      "howstatId": 6036,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    {
+      "name": "Sam Curran",
+      "howstatId": 4787,
+      "iccId": 2939.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Liam Dawson",
+      "howstatId": 4566,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    { "name": "Sam Hain", "howstatId": 7484, "iccId": -1, "role": "batsman" },
+    {
+      "name": "Tom Hartley",
+      "howstatId": 7485,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Chris Jordan",
+      "howstatId": 4238,
+      "iccId": -1,
+      "role": "bowler"
+    },
+    {
+      "name": "Saqib Mahmood",
+      "howstatId": 5658,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Dawid Malan",
+      "howstatId": 4694,
+      "iccId": 3318.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Adil Rashid",
+      "howstatId": 3696,
+      "iccId": 796.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Jason Roy",
+      "howstatId": 4325,
+      "iccId": 1906.0,
+      "role": "batsman"
+    },
+    { "name": "Phil Salt", "howstatId": 6038, "iccId": -1, "role": "batsman" },
+    {
+      "name": "George Scrimshaw",
+      "howstatId": 7482,
+      "iccId": -1,
+      "role": "bowler"
+    },
+    {
+      "name": "Jamie Smith",
+      "howstatId": 7483,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    { "name": "Olly Stone", "howstatId": 4819, "iccId": -1, "role": "Bowler" },
+    {
+      "name": "Reece Topley",
+      "howstatId": 4479,
+      "iccId": 2839.0,
+      "role": "bowler"
+    },
+    {
+      "name": "James Vince",
+      "howstatId": 4419,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "David Willey",
+      "howstatId": 4420,
+      "iccId": 2758.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Luke Wood",
+      "howstatId": 6921,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Alex Hales",
+      "howstatId": 3887,
+      "iccId": 511.0,
+      "role": "unknown"
+    }
+  ],
+  "IRE": [
+    {
+      "name": "Mark Adair",
+      "howstatId": 5089,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    {
+      "name": "Andy Balbirnie",
+      "howstatId": 3809,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Curtis Campher",
+      "howstatId": 5844,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    {
+      "name": "Murray Commins",
+      "howstatId": 7122,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "George Dockrell",
+      "howstatId": 3752,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    {
+      "name": "Fionn Hand",
+      "howstatId": 6850,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    { "name": "Graham Hume", "howstatId": 6783, "iccId": -1, "role": "bowler" },
+    {
+      "name": "Matthew Humphreys",
+      "howstatId": 7189,
+      "iccId": -1,
+      "role": "Bowler"
+    },
+    {
+      "name": "Andy McBrine",
+      "howstatId": 4294,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    {
+      "name": "James McCollum",
+      "howstatId": 4926,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    { "name": "Peter Moor", "howstatId": 4359, "iccId": -1, "role": "batsman" },
+    {
+      "name": "Paul Stirling",
+      "howstatId": 3586,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    {
+      "name": "Harry Tector",
+      "howstatId": 5476,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Lorcan Tucker",
+      "howstatId": 4586,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    { "name": "Ben White", "howstatId": 6049, "iccId": -1, "role": "Bowler" },
+    {
+      "name": "Gareth Delany",
+      "howstatId": 5298,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    {
+      "name": "Stephen Doheny",
+      "howstatId": 7120,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    { "name": "Josh Little", "howstatId": 4584, "iccId": -1, "role": "Bowler" },
+    {
+      "name": "Barry McCarthy",
+      "howstatId": 4563,
+      "iccId": -1,
+      "role": "Bowler"
+    },
+    {
+      "name": "Theo van Woerkom",
+      "howstatId": 7487,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    { "name": "Craig Young", "howstatId": 4328, "iccId": -1, "role": "Bowler" },
+    { "name": "Ross Adair", "howstatId": 7119, "iccId": -1, "role": "batsman" },
+    {
+      "name": "Tyrone Kane",
+      "howstatId": 4433,
+      "iccId": -1,
+      "role": "Allrounder"
+    },
+    { "name": "Neil Rock", "howstatId": 6148, "iccId": -1, "role": "batsman" }
+  ],
+  "NZ": [
+    { "name": "Finn Allen", "howstatId": 5956, "iccId": -1, "role": "batsman" },
+    {
+      "name": "Tom Blundell",
+      "howstatId": 4624,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    { "name": "Trent Boult", "howstatId": 3924, "iccId": -1, "role": "Bowler" },
+    { "name": "Chad Bowes", "howstatId": 7194, "iccId": -1, "role": "batsman" },
+    {
+      "name": "Michael Bracewell",
+      "howstatId": 3934,
+      "iccId": 1279.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Mark Chapman",
+      "howstatId": 4278,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Devon Conway",
+      "howstatId": 5924,
+      "iccId": 4650.0,
+      "role": "batsman"
+    },
+    { "name": "Jacob Duffy", "howstatId": 5930, "iccId": -1, "role": "Bowler" },
+    {
+      "name": "Lockie Ferguson",
+      "howstatId": 4609,
+      "iccId": -1,
+      "role": "Bowler"
+    },
+    {
+      "name": "Dean Foxcroft",
+      "howstatId": 7443,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Matt Henry",
+      "howstatId": 4257,
+      "iccId": 1505.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Kyle Jamieson",
+      "howstatId": 5774,
+      "iccId": 1616.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Tom Latham",
+      "howstatId": 3932,
+      "iccId": 1140.0,
+      "role": "bowler"
+    },
+    { "name": "Ben Lister", "howstatId": 7123, "iccId": -1, "role": "bowler" },
+    {
+      "name": "Cole McConchie",
+      "howstatId": 6149,
+      "iccId": -1,
+      "role": "Allrounder"
+    },
+    {
+      "name": "Adam Milne",
+      "howstatId": 3839,
+      "iccId": 434.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Daryl Mitchell",
+      "howstatId": 4720,
+      "iccId": 3642.0,
+      "role": "unknown"
+    },
+    {
+      "name": "James Neesham",
+      "howstatId": 3986,
+      "iccId": -1,
+      "role": "Allrounder"
+    },
+    {
+      "name": "Henry Nicholls",
+      "howstatId": 4509,
+      "iccId": 2890.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Glenn Phillips",
+      "howstatId": 4647,
+      "iccId": 3027.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Rachin Ravindra",
+      "howstatId": 6150,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Mitchell Santner",
+      "howstatId": 4429,
+      "iccId": 1903.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Henry Shipley",
+      "howstatId": 7116,
+      "iccId": -1,
+      "role": "bowler"
+    },
+    {
+      "name": "Ish Sodhi",
+      "howstatId": 4243,
+      "iccId": 1304.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Tim Southee",
+      "howstatId": 3542,
+      "iccId": 307.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Blair Tickner",
+      "howstatId": 4851,
+      "iccId": 4598.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Kane Williamson",
+      "howstatId": 3817,
+      "iccId": 440.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Will Young",
+      "howstatId": 5927,
+      "iccId": 4596.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Adithya Ashok",
+      "howstatId": 7442,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Dane Cleaver",
+      "howstatId": 6795,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Tim Seifert",
+      "howstatId": 4732,
+      "iccId": 1619.0,
+      "role": "batsman"
+    }
+  ],
+  "PAK": [
+    {
+      "name": "Abdullah Shafique",
+      "howstatId": 5921,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Abrar Ahmed",
+      "howstatId": 7092,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Agha Salman",
+      "howstatId": 6790,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Azhar Ali (Lahore)",
+      "howstatId": 3816,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Babar Azam",
+      "howstatId": 4425,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Faheem Ashraf",
+      "howstatId": 4690,
+      "iccId": 4208.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Haris Rauf",
+      "howstatId": 5771,
+      "iccId": -1.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Hasan Ali",
+      "howstatId": 4579,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Imam-ul-Haq",
+      "howstatId": 4706,
+      "iccId": 1568.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Mir Hamza",
+      "howstatId": 4820,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Mohammad Ali",
+      "howstatId": 7054,
+      "iccId": 3195.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Mohammad Nawaz",
+      "howstatId": 4536,
+      "iccId": 3195.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Mohammad Rizwan",
+      "howstatId": 4412,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Mohammad Wasim",
+      "howstatId": 6058,
+      "iccId": 2760.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Naseem Shah",
+      "howstatId": 5727,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    { "name": "Noman Ali", "howstatId": 5941, "iccId": -1.0, "role": "bowler" },
+    {
+      "name": "Sarfaraz Ahmed",
+      "howstatId": 3513,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Saud Shakeel",
+      "howstatId": 6039,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Shaheen Shah Afridi",
+      "howstatId": 4798,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Shan Masood",
+      "howstatId": 1101,
+      "iccId": 1305.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Zahid Mahmood",
+      "howstatId": 2113,
+      "iccId": 19581.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Fakhar Zaman",
+      "howstatId": 4654,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Haris Sohail",
+      "howstatId": 4225,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Iftikhar Ahmed",
+      "howstatId": 4488,
+      "iccId": 2888.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Ihsanullah",
+      "howstatId": 7190,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Kamran Ghulam",
+      "howstatId": 7121,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Mohammad Haris",
+      "howstatId": 6630,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Mohammad Hasnain",
+      "howstatId": 4991,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Shadab Khan",
+      "howstatId": 4653,
+      "iccId": 3046.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Usama Mir",
+      "howstatId": 7117,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Zaman Khan",
+      "howstatId": 7193,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Aamer Jamal",
+      "howstatId": 1068,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Arafat Minhas",
+      "howstatId": 7531,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Arshad Iqbal",
+      "howstatId": 5993,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    { "name": "Asif Ali", "howstatId": 4747, "iccId": -1.0, "role": "unknown" },
+    {
+      "name": "Azam Khan",
+      "howstatId": 2070,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Haider Ali",
+      "howstatId": 5845,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Imad Wasim",
+      "howstatId": 4423,
+      "iccId": 2760.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Khushdil Shah",
+      "howstatId": 5663,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    { "name": "Mirza Baig", "howstatId": 7532, "iccId": -1, "role": "batsman" },
+    {
+      "name": "Mubasir Khan",
+      "howstatId": 7563,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Omair Yousuf",
+      "howstatId": 7533,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Qasim Akram",
+      "howstatId": 7534,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Rohail Nazir",
+      "howstatId": 7535,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Saim Ayub",
+      "howstatId": 7191,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Sufiyan Muqeem",
+      "howstatId": 7536,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Tayyab Tahir",
+      "howstatId": 7192,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Usman Qadir",
+      "howstatId": 5920,
+      "iccId": -1.0,
+      "role": "bowler"
+    }
+  ],
+  "SA": [
+    {
+      "name": "Temba Bavuma",
+      "howstatId": 4370,
+      "iccId": 833.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Gerald Coetzee",
+      "howstatId": 7155,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Theunis de Bruyn",
+      "howstatId": 4634,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Tony de Zorzi",
+      "howstatId": 7156,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Dean Elgar",
+      "howstatId": 3968,
+      "iccId": -1.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Sarel Erwee",
+      "howstatId": 6476,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Simon Harmer",
+      "howstatId": 4372,
+      "iccId": 1922.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Marco Jansen",
+      "howstatId": 5974,
+      "iccId": 17068.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Heinrich Klaasen",
+      "howstatId": 4731,
+      "iccId": 3869.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Keshav Maharaj",
+      "howstatId": 4601,
+      "iccId": 1894.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Aiden Markram",
+      "howstatId": 4701,
+      "iccId": 1667.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Wiaan Mulder",
+      "howstatId": 4707,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    {
+      "name": "Senuran Muthusamy",
+      "howstatId": 5497,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Lungi Ngidi",
+      "howstatId": 4636,
+      "iccId": 3746.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Anrich Nortje",
+      "howstatId": 4929,
+      "iccId": 5433.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Keegan Petersen",
+      "howstatId": 6014,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Kagiso Rabada",
+      "howstatId": 4339,
+      "iccId": 1664.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Ryan Rickelton",
+      "howstatId": 6552,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Rassie van der Dussen",
+      "howstatId": 4817,
+      "iccId": 1277.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Kyle Verreynne",
+      "howstatId": 5829,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Khaya Zondo",
+      "howstatId": 4730,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Quinton de Kock",
+      "howstatId": 3988,
+      "iccId": 834.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Bjorn Fortuin",
+      "howstatId": 5479,
+      "iccId": -1,
+      "role": "bowler"
+    },
+    {
+      "name": "Reeza Hendricks",
+      "howstatId": 4340,
+      "iccId": 1915.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Sisanda Magala",
+      "howstatId": 5985,
+      "iccId": -1,
+      "role": "bowler"
+    },
+    {
+      "name": "David Miller",
+      "howstatId": 3783,
+      "iccId": 187.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Wayne Parnell",
+      "howstatId": 3642,
+      "iccId": 223.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Andile Phehlukwayo",
+      "howstatId": 4588,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    {
+      "name": "Tabraiz Shamsi",
+      "howstatId": 4562,
+      "iccId": 3309.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Tristan Stubbs",
+      "howstatId": 6607,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Lizaad Williams",
+      "howstatId": 5984,
+      "iccId": -1,
+      "role": "bowler"
+    },
+    {
+      "name": "Matthew Breetzke",
+      "howstatId": 7453,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Dewald Brevis",
+      "howstatId": 6517,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Donovan Ferreira",
+      "howstatId": 7214,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Rilee Rossouw",
+      "howstatId": 4321,
+      "iccId": 239.0,
+      "role": "batsman"
+    }
+  ],
+  "SL": [
+    {
+      "name": "Dinesh Chandimal",
+      "howstatId": 3779,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Dhananjaya de Silva",
+      "howstatId": 4472,
+      "iccId": 1295.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Niroshan Dickwella",
+      "howstatId": 4316,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Asitha Fernando",
+      "howstatId": 4697,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Oshada Fernando",
+      "howstatId": 4852,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Nishan Madushka",
+      "howstatId": 7187,
+      "iccId": 19469.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Vishwa Fernando",
+      "howstatId": 4574,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Prabath Jayasuriya",
+      "howstatId": 4805,
+      "iccId": 5268.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Dimuth Karunaratne",
+      "howstatId": 3871,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Lahiru Kumara",
+      "howstatId": 4599,
+      "iccId": 3085.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Dilshan Madushanka",
+      "howstatId": 6859,
+      "iccId": 19469.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Angelo Mathews",
+      "howstatId": 3628,
+      "iccId": 217.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Kusal Mendis",
+      "howstatId": 4485,
+      "iccId": 1670.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Ramesh Mendis",
+      "howstatId": 5937,
+      "iccId": 19998.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Kasun Rajitha",
+      "howstatId": 3034,
+      "iccId": 3154.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Sadeera Samarawickrama",
+      "howstatId": 4704,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Sahan Arachchige",
+      "howstatId": 4950,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Charith Asalanka",
+      "howstatId": 6032,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    {
+      "name": "Ashen Bandara",
+      "howstatId": 5950,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Dushmantha Chameera",
+      "howstatId": 4380,
+      "iccId": -1,
+      "role": "bowler"
+    },
+    {
+      "name": "Wanindu Hasaranga",
+      "howstatId": 4696,
+      "iccId": -1,
+      "role": "bowler"
+    },
+    {
+      "name": "Nuwanidu Fernando",
+      "howstatId": 7118,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Avishka Fernando",
+      "howstatId": 4581,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Dushan Hemantha",
+      "howstatId": 7299,
+      "iccId": -1,
+      "role": "allrounder"
+    },
+    {
+      "name": "Chamika Karunaratne",
+      "howstatId": 4847,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Dhananjaya Lakshan",
+      "howstatId": 6033,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Pathum Nissanka",
+      "howstatId": 5951,
+      "iccId": 17077.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Matheesha Pathirana",
+      "howstatId": 6613,
+      "iccId": -1,
+      "role": "Bowler"
+    },
+    {
+      "name": "Kusal Perera",
+      "howstatId": 3994,
+      "iccId": 1738.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Pramod Madushan",
+      "howstatId": 6666,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Dasun Shanaka",
+      "howstatId": 4476,
+      "iccId": 2876.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Maheesh Theekshana",
+      "howstatId": 6613,
+      "iccId": 20707.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Jeffrey Vandersay",
+      "howstatId": 4474,
+      "iccId": -1,
+      "role": "Bowler"
+    },
+    {
+      "name": "Dunith Wellalage",
+      "howstatId": 6655,
+      "iccId": 100031.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Lasith Croospulle",
+      "howstatId": 7537,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Shevon Daniel",
+      "howstatId": 7541,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Ravindu Fernando",
+      "howstatId": 7540,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Lahiru Udara",
+      "howstatId": 7542,
+      "iccId": 3085.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Bhanuka Rajapaksa",
+      "howstatId": 5509,
+      "iccId": 877.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Lahiru Samarakoon",
+      "howstatId": 7542,
+      "iccId": 3085.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Nuwan Thushara",
+      "howstatId": 6475,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Nimesh Vimukthi",
+      "howstatId": 7539,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Vijayakanth Viyaskanth",
+      "howstatId": 7543,
+      "iccId": -1.0,
+      "role": "unknown"
+    }
+  ],
+  "WI": [
+    {
+      "name": "Alick Athanaze",
+      "howstatId": 7307,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Jermaine Blackwood",
+      "howstatId": 4312,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Nkrumah Bonner",
+      "howstatId": 3902,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Kraigg Brathwaite",
+      "howstatId": 3863,
+      "iccId": 1460.0,
+      "role": "allrounder"
+    },
+    {
+      "name": "Shamarh Brooks",
+      "howstatId": 5393,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Tagenarine Chanderpaul",
+      "howstatId": 7053,
+      "iccId": -1.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Roston Chase",
+      "howstatId": 4570,
+      "iccId": 3321.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Rahkeem Cornwall",
+      "howstatId": 5401,
+      "iccId": 3858.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Joshua Da Silva",
+      "howstatId": 5929,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Shannon Gabriel",
+      "howstatId": 3952,
+      "iccId": 871.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Jason Holder",
+      "howstatId": 3998,
+      "iccId": 1075.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Alzarri Joseph",
+      "howstatId": 4575,
+      "iccId": 3098.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Kyle Mayers",
+      "howstatId": 5925,
+      "iccId": 1902.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Kirk McKenzie",
+      "howstatId": 7376,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Marquino Mindley",
+      "howstatId": 7091,
+      "iccId": -1,
+      "role": "Bowler"
+    },
+    {
+      "name": "Gudakesh Motie",
+      "howstatId": 6459,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Anderson Phillip",
+      "howstatId": 5954,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Raymon Reifer",
+      "howstatId": 4716,
+      "iccId": -1,
+      "role": "Allrounder"
+    },
+    {
+      "name": "Kemar Roach",
+      "howstatId": 3611,
+      "iccId": 410.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Jayden Seales",
+      "howstatId": 6013,
+      "iccId": 19107.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Devon Thomas",
+      "howstatId": 3718,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Jomel Warrican",
+      "howstatId": 4486,
+      "iccId": 2879.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Akeem Jordan",
+      "howstatId": 7302,
+      "iccId": -1,
+      "role": "Bowler"
+    },
+    {
+      "name": "Yannic Cariah",
+      "howstatId": 6854,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Keacy Carty",
+      "howstatId": 6619,
+      "iccId": -1,
+      "role": "Allrounder"
+    },
+    {
+      "name": "Johnson Charles",
+      "howstatId": 3903,
+      "iccId": -1,
+      "role": "unknown"
+    },
+    {
+      "name": "Dominic Drakes",
+      "howstatId": 6458,
+      "iccId": -1,
+      "role": "Allrounder"
+    },
+    {
+      "name": "Shimron Hetmyer",
+      "howstatId": 4681,
+      "iccId": 1705.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Kavem Hodge",
+      "howstatId": 7301,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Shai Hope",
+      "howstatId": 4417,
+      "iccId": 2751.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Akeal Hosein",
+      "howstatId": 5935,
+      "iccId": 20593.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Brandon King",
+      "howstatId": 3800,
+      "iccId": 1708.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Keemo Paul",
+      "howstatId": 4742,
+      "iccId": -1,
+      "role": "Allrounder"
+    },
+    {
+      "name": "Nicholas Pooran",
+      "howstatId": 4587,
+      "iccId": 1703.0,
+      "role": "batsman"
+    },
+    {
+      "name": "Rovman Powell",
+      "howstatId": 3022,
+      "iccId": 3333.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Romario Shepherd",
+      "howstatId": 5662,
+      "iccId": -1.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Kevin Sinclair",
+      "howstatId": 5952,
+      "iccId": -1.0,
+      "role": "unknown"
+    },
+    {
+      "name": "Odean Smith",
+      "howstatId": 4748,
+      "iccId": 3103.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Sheldon Cottrell",
+      "howstatId": 4249,
+      "iccId": 1309.0,
+      "role": "bowler"
+    },
+    {
+      "name": "Obed McCoy",
+      "howstatId": 4825,
+      "iccId": 3100.0,
+      "role": "bowler"
+    }
+  ],
+  "ZIM": [
+    {
+      "name": "Gary Ballance",
+      "howstatId": 4234,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Chamu Chibhabha",
+      "howstatId": 3320,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Tanaka Chivanga",
+      "howstatId": 6615,
+      "iccId": -1,
+      "role": "Bowler"
+    },
+    {
+      "name": "Craig Ervine",
+      "howstatId": 3780,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Brad Evans",
+      "howstatId": 6617,
+      "iccId": -1,
+      "role": "Allrounder"
+    },
+    {
+      "name": "Innocent Kaia",
+      "howstatId": 6198,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Tanunurwa Makoni",
+      "howstatId": 7124,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Wellington Masakadza",
+      "howstatId": 4482,
+      "iccId": -1,
+      "role": "Bowler"
+    },
+    {
+      "name": "Brandon Mavuta",
+      "howstatId": 4800,
+      "iccId": -1,
+      "role": "Allrounder"
+    },
+    {
+      "name": "Richard Ngarava",
+      "howstatId": 4646,
+      "iccId": -1,
+      "role": "Bowler"
+    },
+    {
+      "name": "Victor Nyauchi",
+      "howstatId": 5768,
+      "iccId": -1,
+      "role": "Bowler"
+    },
+    {
+      "name": "Milton Shumba",
+      "howstatId": 5922,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Donald Tiripano",
+      "howstatId": 4314,
+      "iccId": -1,
+      "role": "Bowler"
+    },
+    {
+      "name": "Tafadzwa Tsiga",
+      "howstatId": 7125,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    { "name": "Ryan Burl", "howstatId": 4645, "iccId": -1, "role": "batsman" },
+    {
+      "name": "Tendai Chatara",
+      "howstatId": 3792,
+      "iccId": -1,
+      "role": "Bowler"
+    },
+    {
+      "name": "Joylord Gumbie",
+      "howstatId": 7323,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Luke Jongwe",
+      "howstatId": 4319,
+      "iccId": -1,
+      "role": "Allrounder"
+    },
+    {
+      "name": "Clive Madande",
+      "howstatId": 6654,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Wessly Madhevere",
+      "howstatId": 5830,
+      "iccId": -1,
+      "role": "Allrounder"
+    },
+    {
+      "name": "Tadiwanashe Marumani",
+      "howstatId": 5992,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Blessing Muzarabani",
+      "howstatId": 4719,
+      "iccId": -1,
+      "role": "Bowler"
+    },
+    {
+      "name": "Sikandar Raza",
+      "howstatId": 4022,
+      "iccId": -1,
+      "role": "Allrounder"
+    },
+    {
+      "name": "Sean Williams",
+      "howstatId": 3270,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Regis Chakabva",
+      "howstatId": 3622,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Faraz Akram",
+      "howstatId": 5923,
+      "iccId": -1,
+      "role": "Allrounder"
+    },
+    {
+      "name": "Tinashe Kamunhukamwe",
+      "howstatId": 4804,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Nyasha Mayavo",
+      "howstatId": 7613,
+      "iccId": -1,
+      "role": "batsman"
+    },
+    {
+      "name": "Carl Mumba",
+      "howstatId": 4600,
+      "iccId": -1,
+      "role": "Allrounder"
+    },
+    {
+      "name": "Tony Munyonga",
+      "howstatId": 5473,
+      "iccId": -1,
+      "role": "Allrounder"
+    },
+    {
+      "name": "Ainsley Ndlovu",
+      "howstatId": 5249,
+      "iccId": -1,
+      "role": "BOWLER"
+    },
+    { "name": "Nick Welch", "howstatId": 7611, "iccId": -1, "role": "batsman" }
+  ]
+}
