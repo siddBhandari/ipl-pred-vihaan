@@ -1,2 +1,2 @@
-# cricket-yug-backend
-backend for cricket-yug website
+#backend
+backend for  website
